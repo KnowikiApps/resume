@@ -16,7 +16,7 @@ Embedded C application development on Microchip microprocessors for consumer aud
 * Introduced Kanban project organization and Agile practices into a traditionally Waterfall engineering environment.
 * Completed design and build of firmware for consumer audio products with estimated MSRP above $10,000
 
-# Knowiki Apps, Los Angeles, CA App Developer/Consultant	 01/2016-02/2020
+## Knowiki Apps, Los Angeles, CA App Developer/Consultant	 01/2016-02/2020
 
 Cross Platform mobile App development with React Native and Qt/QML. Technology development consulting for desktop, web, embedded software and hardware and prototype development.
 
